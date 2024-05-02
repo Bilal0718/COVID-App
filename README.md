@@ -41,9 +41,12 @@ For more details about the API, refer to the documentation.
 Screenshots
 
 Global COVID-19 Statistics
+<p><img src="./assets/Screenshots/Screenshot_1714559551.png" alt="Karachi' Weather"></p>
 
 
 Country-wise COVID-19 Statistics
+<p><img src="./assets/Screenshots/Screenshot_1714559574.png" alt="Adamsville's Weather"></p>
+<p><img src="./assets/Screenshots/Screenshot_1714559583.png" alt="Adamsville's Weather"></p>
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
